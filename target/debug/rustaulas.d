@@ -1,1 +1,1 @@
-/home/lenon/Documentos/GitHub/rustaulas/target/debug/rustaulas: /home/lenon/Documentos/GitHub/rustaulas/main.rs
+/home/lenon/Documentos/GitHub/Rust/target/debug/rustaulas: /home/lenon/Documentos/GitHub/Rust/main.rs
